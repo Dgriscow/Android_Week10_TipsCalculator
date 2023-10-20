@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_Week10_TipsCalculator</string>
+    <string name="header_title">Tips Calculator</string>
+    <string-array name="tip_Values">
+        <item id="1">5% Tip</item>
+        <item>10% Tip</item>
+        <item>15% Tip</item>
+        <item>20% Tip</item>
+    </string-array>
+
+    <string name="TipOutput"> </string>
+
+
+</resources>
